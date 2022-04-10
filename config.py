@@ -1,0 +1,7 @@
+api_key="p2Xq9r3OsX5XOyWU4ZWwOHuFI4lyiwBfJ1L5HzSTaBqUzWo1ephs6C4mVbj9aYrs"
+api_secret="xXV7dCG0pdh0zxL724RR0ITCQgky1Isk8RqviwEjbF4oudygQK2jfsf87tooSy6u"
+
+
+# testnet
+# api_key="TEQRgZHF4K0xy6sPsQ7tYQ6FzijuZ8UbZh8UqFoiMABh1hRrILRcsdt84ISmunkp"
+# api_secret="HqtANYHEnHCX0kEs7YKYuFgSvXUu32Vcb3BYvTRO7nW9lkDbxVA1d3aMIr78LJWg"
